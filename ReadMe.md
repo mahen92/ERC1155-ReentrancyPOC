@@ -1,0 +1,1 @@
+The project is a POC that illustrates how ERC1155 can be exploited using the _mint function and it is essential to use the Checks-Effects-Interactions Pattern while minting tokens.
